@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="lucas_loaves.xsl"?>
+<!DOCTYPE lucas_loaves SYSTEM "lucas_loaves.dtd">
+<lucas_loaves>
+    <product>
+        <name>Sourdough White</name>
+        <price currency="AUD">7.00</price>
+        <description>Our standard sourdough</description>
+        <image>assets/sliced-sliced-bread.gif</image>
+        <sound>assets/bread-knife-cutting-sourdough-bread-28562.mp3</sound>
+    </product>
+    <product>
+        <name>Sourdough Rye</name>
+        <price currency="AUD">8.00</price>
+        <description>Sourdough created with 50% rye flour</description>
+        <image>assets/sliced-sliced-bread.gif</image>
+        <sound>assets/bread-knife-cutting-sourdough-bread-28562.mp3</sound>
+    </product>
+    <product>
+        <name>Sourdough Spelt</name>
+        <price currency="AUD">9.00</price>
+        <description>Sourdough created with 100% spelt flour.</description>
+        <image>assets/sliced-sliced-bread.gif</image>
+        <sound>assets/bread-knife-cutting-sourdough-bread-28562.mp3</sound>
+    </product>
+    <product>
+        <name>Sourdough Seeded</name>
+        <price currency="AUD">9.50</price>
+        <description>Sourdough including a mixture of yummy seeds.</description>
+        <image>assets/sliced-sliced-bread.gif</image>
+        <sound>assets/bread-knife-cutting-sourdough-bread-28562.mp3</sound>
+    </product>
+</lucas_loaves>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="caroles_clothes.xsl"?>
+<!DOCTYPE caroles_clothes SYSTEM "caroles_clothes.dtd">
+<caroles_clothes>
+    <item category="dress">
+        <name>Shift dress</name>
+        <price currency="AUD">45.00</price>
+        <description>Simple shift, available in two colours. 100% cotton</description>
+        <image>assets/fabric_texture.gif</image>
+        <sound>assets/fabric_rustle.mp3</sound>
+    </item>
+    <item category="skirt">
+        <name>Wraparound skirt</name>
+        <price currency="AUD">30.00</price>
+        <description>Simple wraparound skirt, available in two colours. 100% cotton</description>
+        <image>assets/wraparound.gif</image>
+        <sound>assets/fabric_rustle.mp3</sound>
+    </item>
+</caroles_clothes>

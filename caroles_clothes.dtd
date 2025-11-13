@@ -1,0 +1,12 @@
+<!ENTITY % core_data "name, price, description">
+<!ENTITY % multimedia "image, sound">
+
+<!ELEMENT caroles_clothes (item+)>
+<!ELEMENT item (%core_data;, %multimedia;)>
+<!ATTLIST item category CDATA #REQUIRED>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT price (#PCDATA)>
+<!ATTLIST price currency CDATA #REQUIRED>
+<!ELEMENT description (#PCDATA)>
+<!ELEMENT image (#PCDATA)>
+<!ELEMENT sound (#PCDATA)>
